@@ -1,0 +1,22 @@
+name: ble_control_app
+description: A Flutter app for BLE device control and scheduling.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_blue: ^0.8.0    # BLE scanning/connection
+  sqflite: ^2.0.0         # SQLite database
+  intl: any               # Internationalization
+  provider: ^6.0.0        # State management
+  permission_handler: ^12.0.0  # Runtime permissions
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/

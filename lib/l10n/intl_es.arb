@@ -1,0 +1,23 @@
+{
+  "appTitle": "Aplicación BLE",
+  "devices": "Dispositivos",
+  "logs": "Registros",
+  "settings": "Configuración",
+  "scanDevices": "Buscar Dispositivos",
+  "connect": "Conectar",
+  "disconnect": "Desconectar",
+  "intensity": "Intensidad",
+  "time": "Tiempo",
+  "seconds": "Segundos",
+  "secs": "s",
+  "start": "Iniciar",
+  "stop": "Detener",
+  "remaining": "Restante",
+  "language": "Idioma",
+  "schedule": "Planificación",
+  "pickDateTime": "Seleccionar Fecha/Hora",
+  "addSchedule": "Agregar Programación",
+  "scheduledJobs": "Tareas Programadas",
+  "duration": "Duración",
+  "deviceId": "ID del Dispositivo"
+}

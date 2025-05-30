@@ -1,0 +1,23 @@
+{
+  "appTitle": "BLE Steuerung",
+  "devices": "Geräte",
+  "logs": "Protokolle",
+  "settings": "Einstellungen",
+  "scanDevices": "Geräte suchen",
+  "connect": "Verbinden",
+  "disconnect": "Trennen",
+  "intensity": "Intensität",
+  "time": "Zeit",
+  "seconds": "Sekunden",
+  "secs": "Sek.",
+  "start": "Start",
+  "stop": "Stopp",
+  "remaining": "Verbleibend",
+  "language": "Sprache",
+  "schedule": "Zeitplan",
+  "pickDateTime": "Datum/Zeit wählen",
+  "addSchedule": "Zeitplan hinzufügen",
+  "scheduledJobs": "Geplante Aufgaben",
+  "duration": "Dauer",
+  "deviceId": "Geräte-ID"
+}
